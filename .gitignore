@@ -1,0 +1,9 @@
+cat > .gitignore << 'EOF'
+__pycache__/
+*.pyc
+.DS_Store
+
+saved_frames/
+charts/
+outputs/
+EOF

@@ -1,0 +1,31 @@
+Wildlife Livestream Analysis Summary
+=============================================
+
+Total detections: 112851
+Total frames analyzed: 107360
+Frames with animals: 50302
+Scene occupancy: 46.85%
+Total events: 4764
+
+Detections by species:
+- antelope_like: 54264
+- zebra: 49784
+- elephant: 3608
+- bird: 3563
+- ungulate: 1627
+- giraffe: 5
+
+Events by type:
+- new_species_detected: 1342
+- large_group_detected: 1277
+- activity_started: 901
+- activity_ended: 891
+- multi_species_detected: 353
+
+Average visit duration by species:
+- antelope_like: 151.31 seconds
+- bird: 10.36 seconds
+- elephant: 35.24 seconds
+- giraffe: 0.22 seconds
+- ungulate: 9.86 seconds
+- zebra: 23.30 seconds
