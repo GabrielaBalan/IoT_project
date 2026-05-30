@@ -1,0 +1,21 @@
+Wildlife Monitoring Session Summary
+========================================
+Session start: 2026-05-29 06:32:45
+Session end:   2026-05-29 06:36:01
+Duration (s):  196.83
+Total frames:  1986
+Frames with animals: 1416
+Occupancy (%): 71.3
+Total events:  299
+
+Detections by species:
+  - bird: 1862
+  - antelope_like: 7
+
+Zone usage:
+  - antelope_like / center: 4
+  - antelope_like / left: 3
+  - bird / center: 1656
+  - bird / left: 206
+
+Co-occurrence:
